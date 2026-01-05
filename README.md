@@ -243,15 +243,5 @@ If you find this project useful:
 
 ---
 
-```
 
----
-
-If you want, next I can:
-- Validate this README against GitHub preview
-- Add screenshots section
-- Write deployment README
-- Clean code for production
-
-You did a **solid MERN project** 💪
 ```
